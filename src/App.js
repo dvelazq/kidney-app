@@ -1,25 +1,13 @@
-import kidney-logo from './kidney-logo.svg';
-import './App.css';
+//import kidney-logo from './kidney-logo.svg';
+import React from 'react';
+import { Vitessce } from 'vitessce';
+import { myViewConfig } from './my-view-config';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={kidney-logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Vitessce
+      config={myViewConfig}
+      theme="light"
+    />
   );
 }
-
-export default App;
