@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kidney-app/static/css/main.136fc852.css",
-    "main.js": "/kidney-app/static/js/main.f44c8752.js",
+    "main.js": "/kidney-app/static/js/main.b61f2d37.js",
     "static/js/669.92d0dc88.chunk.js": "/kidney-app/static/js/669.92d0dc88.chunk.js",
     "static/js/495.50e40cf3.chunk.js": "/kidney-app/static/js/495.50e40cf3.chunk.js",
     "static/js/29.e6b92c33.chunk.js": "/kidney-app/static/js/29.e6b92c33.chunk.js",
@@ -21,7 +21,7 @@
     "static/js/160.312fe1a5.chunk.js": "/kidney-app/static/js/160.312fe1a5.chunk.js",
     "index.html": "/kidney-app/index.html",
     "main.136fc852.css.map": "/kidney-app/static/css/main.136fc852.css.map",
-    "main.f44c8752.js.map": "/kidney-app/static/js/main.f44c8752.js.map",
+    "main.b61f2d37.js.map": "/kidney-app/static/js/main.b61f2d37.js.map",
     "669.92d0dc88.chunk.js.map": "/kidney-app/static/js/669.92d0dc88.chunk.js.map",
     "495.50e40cf3.chunk.js.map": "/kidney-app/static/js/495.50e40cf3.chunk.js.map",
     "29.e6b92c33.chunk.js.map": "/kidney-app/static/js/29.e6b92c33.chunk.js.map",
@@ -42,6 +42,6 @@
   },
   "entrypoints": [
     "static/css/main.136fc852.css",
-    "static/js/main.f44c8752.js"
+    "static/js/main.b61f2d37.js"
   ]
 }
